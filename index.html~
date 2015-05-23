@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
+
+    <title>Matem&aacute;ticas </title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/main.css" rel="stylesheet">
+
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="assets/js/hover.zoom.js"></script>
+    <script src="assets/js/hover.zoom.conf.js"></script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <!-- Static navbar -->
+    <div class="navbar navbar-inverse navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">Mates!!</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="">Work</a></li>
+            <li><a href="">About</a></li>
+            <li><a href="">Blog</a></li>
+            <li><a href="">Contact</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+	<!-- +++++ Welcome Section +++++ -->
+	<div id="ww">
+	    <div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2 centered">
+					<img src="assets/img/user.png" alt="Stanley">
+					<h1>Hola, Soy Cristian!</h1>
+					<p>En esta p&aacute;gina encontraras algunos ejercicios que propondr&eacute; para que puedas
+						practicar los d&iacute;as que no tengamos clases, de esta manera nos aseguramos de que
+						los conceptos revisados quedan entendidos y adem&aacute;s veremos las dudas posibles 
+						que puedan surgir al realizarlos</p>
+					<p>La pr&aacute;ctica es experiencia, mientras m&aacute;s ejercicios realicemos, tendremos 
+						mejores resultados. <br>Te invito a divertirte con estos pequeños ejercicios!</p>
+					<p>¡¡¡ Tu puedes !!! </p>
+				
+				</div><!-- /col-lg-8 -->
+			</div><!-- /row -->
+	    </div> <!-- /container -->
+	</div><!-- /ww -->
+	
+	
+	<!-- +++++ Projects Section +++++ -->
+	
+	<div class="container pt">
+		<div class="row-mt centered">	
+			<div class="col-lg-4 col-md-4">
+				<a class="zoom green" href="potencias.html">
+					<img class="img-responsive" src="assets/img/portfolio/potencias.jpg" alt="" />
+				</a>
+				<p><b>POTENCIAS</b></p>
+			</div>
+
+			<div class="col-lg-4 col-md-4">
+				<a class="zoom green" href="proporciones.html">
+					<img class="img-responsive" src="assets/img/portfolio/proporciones.jpg" alt="" />
+				</a>				
+				<br><p><b>PROPORCIONES</b></p>
+			</div>
+
+			<div class="col-lg-4 col-md-4">
+				<a class="zoom green" href="polinomios.html">
+					<img class="img-responsive" src="assets/img/portfolio/expresiones.png" alt="" />
+				</a>				
+				<br>
+				<br><p><b>EXPRESIONES ALGEBRAICAS</b></p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container pt">
+		<div class="row-mt centered">	
+			<div class="col-lg-4 col-md-4">
+				<a class="zoom green" href="areas.html">
+					<img class="img-responsive" src="assets/img/portfolio/areas.GIF" alt="" />
+				</a>				
+				<br>
+				<br><p><b>Figuras Geom&eacute;tricas y &Aacute;reas</b></p>
+			</div>
+		</div>
+
+		<div class="row-mt centered">	
+			<div class="col-lg-4 col-md-4">
+				<a class="zoom green" href="ecuaciones.html">
+					<img class="img-responsive" src="assets/img/portfolio/ecuaciones.jpg" alt="" />
+				</a>				
+				<br>
+				<br><p><b>Ecuaciones de 1er y 2do Grado</b></p>
+			</div>
+		</div>
+
+
+		<div class="row-mt centered">	
+			<div class="col-lg-4 col-md-4">
+				<a class="zoom green" href="Semejanza.rara">
+					<img class="img-responsive" src="assets/img/portfolio/semejanza.jpg" alt="" />
+				</a>				
+				<br>
+				<br><p><b>Aplicaci&oacute;nes de Semejanza</b></p>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- +++++ Footer Section +++++ -->	
+	<div id="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4">
+					<p>
+						&Uacute;ltima actualizaci&oacute;n: 7/05/2015 (Jueves).<br>
+						Revisi&oacute;n: 13/05/2015	(Mi&eacute;rcoles).<br>
+						Pendientes: <br>
+						* Ejercicios Tema "Potencias": del 6 al 10. (Volver a hacerlos).<br>
+						* Ejercicios Tema "Expresiones Algebraicas": 1 y del 11 al 15.<br>
+						* Ejercicios Tema "Figuras y &Aacute;reas": 1, 3, 5, 7, 8, 9, 10, 11, 13, 16, 18.<br>
+						* Ejercicios Tema "Ecuaciones 1ro y 2do Grado": Todos.<br>
+					</p>	
+				</div><!-- /col-lg-4 -->
+			</div>		
+		</div>
+	</div>
+	
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="assets/js/bootstrap.min.js"></script>
+  </body>
+</html>
